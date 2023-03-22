@@ -31,10 +31,3 @@
 * [computerphile](https://www.youtube.com/@Computerphile) - basics concepts explain by teachers.
 * [socratica](https://www.youtube.com/watch?v=nxjwB8up2gI&t=168s) - educator of python.
 * [retroactivo](https://www.youtube.com/watch?v=Y2m6bXB2LG4&t=3402s) - nerds siendo nerds, historia.
-
-### Articles
-
-Those are the sites that publish analytical articles.
-
-* [The Motley Fool](https://www.fool.com/)
-* [Seeking Alpha](https://seekingalpha.com/)
