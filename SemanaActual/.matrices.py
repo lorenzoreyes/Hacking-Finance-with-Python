@@ -98,20 +98,25 @@ class matrix():
                        "value": lista[self.row][self.column],
                        "row": self.lista[0],
                        "column": [i[0] for i in self.lista]}
+        # si, puedo llamar a una otra funcion dentro del mismo objeto
+        self.print()
     
     def get_row(self):
         """Imprimo la lista ubicada"""
         cursor = self.cursor
         print(cursor['row'])
+        self.print()
     
     def get_colum(self):
         """Imprimo la lista ubicada"""
         cursor = self.cursor
         print(cursor['column'])
+        self.print()
         
     def del_row(self,row):
         """Borrar Fila"""
         del self.lista[0]
+        self.print()
         
     def del_column(self,column):
         """Borrar Fila"""
@@ -119,31 +124,32 @@ class matrix():
         lista = self.lista 
         for i in range(len(lista)):
             del lista[i][column]
+        
+        self.print()
             
     def swap(self):
-        """Funcion para setear una ubicacion 
-        en caso de especificar solo row o column
-        afectara la variable mencionada
-        sin alterar la no mencionada"""
+        """Funcion para intercambiar los valores del cursor"""
         self.row, self.column = self.column, self.row
         # actualizo el cursor
         self.cursor = {"position": [self.row,self.column],
                        "value": lista[self.row][self.column],
                        "row": self.lista[0],
                        "column": [i[0] for i in self.lista]}
+        self.print()
         
     def transpose(self):
         """Transpose matrix"""
         lista = self.lista 
         self.lista = [[i[j] for i in self.lista] for j in range(len(lista))]
-        # si, puedo llamar a una otra funcion dentro del mismo objeto
         self.swap()
+        self.print()
         
     def add_substract(self,value):
         lista = self.lista 
         for i in range(len(lista)):
             lista[i] = [j + value for j in lista[i]]
         
+        self.print()
 
 
 lista = [[9, 8, 10, 5], [8, 5, 7, 4],[ 6, 6, 7, 6],[3, 10, 4, 10]]
