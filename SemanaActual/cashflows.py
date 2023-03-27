@@ -10,6 +10,12 @@ tasa = 0.1
 def valor_actual_neto(flujos:list, tasa:float, periodos:int=0):
     """
     Calculo del Valor Actual Neto (VAN)
+    El valor actual neto (VAN) es un criterio de inversión que consiste
+    en actualizar los cobros y pagos de un proyecto o inversión para conocer
+    cuanto se va a ganar o perder con esa inversión. 
+    También se conoce como valor neto actual (VNA), 
+    valor actualizado neto o valor presente neto (VPN)
+    link concepto: https://economipedia.com/definiciones/valor-actual-neto.html
     
     Variables:
     flujos: list lista que contenga la serie de pagos
