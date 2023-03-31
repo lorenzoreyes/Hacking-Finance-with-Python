@@ -32,3 +32,4 @@
 * [socratica](https://www.youtube.com/watch?v=nxjwB8up2gI&t=168s) - educator of python.
 * [retroactivo](https://www.youtube.com/watch?v=Y2m6bXB2LG4&t=3402s) - nerds siendo nerds, historia.
 * [flaviocopes](https://flaviocopes.com/book/read/python/) - consulta documentacion.
+* [towards_datascience](https://towardsdatascience.com/root-finding-methods-from-scratch-in-python-84040c81a8ba) - blogs de data science.
