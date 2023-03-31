@@ -1,6 +1,36 @@
 # Programacion Aplicada Finanzas
 
-### Carpeta de Ejercicios por tematica 
+Directory Tree
+==============
+
+[.](./)
+├── [ball\_demo.ipynb](./ball_demo.ipynb)
+├── [ball.py](./ball.py)
+├── [Bases](./Bases/)
+│   ├── [IntroPython.ipynb](./Bases/IntroPython.ipynb)
+│   └── [IntroPython.py](./Bases/IntroPython.py)
+├── [benchmark\_gabriel.py](./benchmark_gabriel.py)
+├── [functional\_ball.py](./functional_ball.py)
+├── [Paradigms](./Paradigms/)
+│   ├── [Deploy\_Paradigms.ipynb](./Paradigms/Deploy_Paradigms.ipynb)
+│   ├── [functional\_fisher.py](./Paradigms/functional_fisher.py)
+│   ├── [oop\_fisher.py](./Paradigms/oop_fisher.py)
+│   ├── [procedural\_fisher.py](./Paradigms/procedural_fisher.py)
+│   ├── [\_\_pycache\_\_](./Paradigms/__pycache__/)
+│   │   └── [oop\_fisher.cpython-39.pyc](./Paradigms/__pycache__/oop_fisher.cpython-39.pyc)
+│   ├── [requirements.txt](./Paradigms/requirements.txt)
+│   └── [RTX SMA 50.png](./Paradigms/RTX%20SMA%2050.png)
+├── [PlaygroundOOP.py](./PlaygroundOOP.py)
+├── [\_\_pycache\_\_](./__pycache__/)
+│   ├── [ball.cpython-39.pyc](./__pycache__/ball.cpython-39.pyc)
+│   └── [PlaygroundOOP.cpython-39.pyc](./__pycache__/PlaygroundOOP.cpython-39.pyc)
+├── [README.md](./README.md)
+├── [Recursividad](./Recursividad/)
+│   └── [Recursividad.ipynb](./Recursividad/Recursividad.ipynb)
+├── [SemanaActual](./SemanaActual/)
+│   ├── [cashflows.py](./SemanaActual/cashflows.py)
+│   └── [Flujofondos\_review.py](./SemanaActual/Flujofondos_review.py)
+└── [tree.html](./tree.html)
 
 # Material to Enhance Python 🎩💰
 
