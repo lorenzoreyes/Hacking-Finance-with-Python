@@ -159,7 +159,7 @@ class Tablero():
         """Funcion para intercambiar los valores position del ball"""
         self.row, self.column = self.column, self.row
         # actualizo el ball
-        self.__updateball()
+        self.__updateball__()
         self.print('swap')
         
   def transpose(self):
