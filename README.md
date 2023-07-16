@@ -20,7 +20,7 @@ When you have to deal with outside US and be an emerging country your working sc
 
 * 3. Plot it. Once you have your data and it is clean you need a professional look to show it.
 
-* 4. Create a Stock Broker. At the end of the day brokers process informations, being the "professionals" API between customers requests and markets operations.
+* 4. Create a Stock Broker. At the end of the day brokers process informations, being the "professionals" a API between customers requests and market operations.
      Generate a tool to gather input, generate a portfolio, deploy it, monitor the perfomance and update it under request.
 
 * 5. Add a Mantainer. Your data is not static, so you will have to generate tools in order to be updated and trigger alarms when you need to fix stuff.
