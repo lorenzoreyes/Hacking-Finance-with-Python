@@ -1,6 +1,9 @@
 # Survival Finance with Python 🎩💰
 ## Case Study: Hacking ARGENTINA
 
+<img src="sebastian.jpg" style="width: 800px; height: 450px;">
+
+
 > This is a book aimed to learn python by applying real finance, by being a financial analyst in Argentina Economy (dealing with lack of information,
 handling data errors and making things work)
 
