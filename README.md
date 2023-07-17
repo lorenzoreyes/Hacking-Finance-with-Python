@@ -1,5 +1,5 @@
-# Survival Finance with Python 🎩💰
-## Case Study: Hacking ARGENTINA
+# Survival Finance with Python 💰
+## Case Study: HACKING ARGENTINA :mate:
 
 <img src="sebastian.jpg" style="width: 800px; height: 450px;">
 
