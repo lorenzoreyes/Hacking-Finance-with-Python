@@ -11,7 +11,7 @@ You will get your hands dirty, there will be no Fabozzi/Hull/Allen,Brealey&Meyer
 I mean this case is tough, argentinian tough level to be honest, and all known books are perfect, but theoretically perfect
 When you have to deal with outside US and be an emerging country your working scenario is blurry, to say it nicely.
 
-We will simulate the day-to-day of an argentinian handling the finance of a little store "La pulperia" and all its constraints that faces daily.
+We will simulate the day-to-day of an argentinian handling the finance of a little store called "La Pulperia: Tienda de Ramos Generales, Despacho de Vida y Cancha de Bocha" (honor to Don Luis Landriscina) and all its constraints that faces daily.
 
 
 ## Chapters of the Book.
