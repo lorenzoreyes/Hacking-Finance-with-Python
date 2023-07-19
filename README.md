@@ -27,12 +27,12 @@ We will simulate the day-to-day of an argentinian handling the finance of a litt
 * 3. [Create a Stock Broker] At the end of the day brokers process informations, being the "professionals" a kind of API between customers requests and markets operations.
      Generate a tool to gather input, generate a portfolio, deploy it, monitor the perfomance and update it under request.
 
-* 5. [Scalability] In programming this is the keyword to level up your craft.
+* 4. [Scalability] In programming this is the keyword to level up your craft.
      Add a Mantainer. Your data is not static, so you will have to generate tools in order to be updated and trigger alarms when you need to fix stuff.
 
-* 6. [Deliver Emails] Once all is done handle your customers with emails at large a scale to be informed of the flow of requests and proper respond them.
+* 5. [Deliver Emails] Once all is done handle your customers with emails at large a scale to be informed of the flow of requests and proper respond them.
 
-* 7. [Final Thougths] What this book is not and how to keep up with this.
+* 6. [Final Thougths] What this book is not and how to keep up with this.
 
 
 ### For Beginners
