@@ -16,7 +16,7 @@ We will simulate the day-to-day of an argentinian handling the finance of a litt
 
 ## Chapters of the Book.
 
-* 0. [Starter Pack] Why Python and Why Argentina. Goals of the book: become a financial hacker by making your computer a servant of your will.
+* 0. [What numbers tell us] Analyze the best plan of payments considering inflation and how to read interest rates. Why Python and Why Argentina. Goals of the book: become a financial hacker by making your computer a servant of your will.
      Python definition, semantics, variables, REPL and functions [OOPs free].
 
 * 1. [Finance Applied in Argentina] How to value our data and what risk we face? Concepts of Currency, Stock Market, Futures, Bonds Analysis & Data Processing all with the ease of Python. 
@@ -33,3 +33,4 @@ We will simulate the day-to-day of an argentinian handling the finance of a litt
 * 5. [Deliver Emails] Once all is done handle your customers with emails at large a scale to be informed of the flow of requests and proper respond them.
 
 * 6. [Final Thougths] What this book is not and how to keep up with this.
+
